@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/skyhizone.com/static/css/main.b9af05af.chunk.css",
+    "main.js": "/skyhizone.com/static/js/main.71b66f69.chunk.js",
+    "main.js.map": "/skyhizone.com/static/js/main.71b66f69.chunk.js.map",
+    "runtime-main.js": "/skyhizone.com/static/js/runtime-main.be46973d.js",
+    "runtime-main.js.map": "/skyhizone.com/static/js/runtime-main.be46973d.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/skyhizone.com/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.070e8416.chunk.js": "/skyhizone.com/static/js/2.070e8416.chunk.js",
+    "static/js/2.070e8416.chunk.js.map": "/skyhizone.com/static/js/2.070e8416.chunk.js.map",
+    "static/js/3.66858e06.chunk.js": "/skyhizone.com/static/js/3.66858e06.chunk.js",
+    "static/js/3.66858e06.chunk.js.map": "/skyhizone.com/static/js/3.66858e06.chunk.js.map",
+    "index.html": "/skyhizone.com/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/skyhizone.com/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.b9af05af.chunk.css.map": "/skyhizone.com/static/css/main.b9af05af.chunk.css.map",
+    "static/js/2.070e8416.chunk.js.LICENSE.txt": "/skyhizone.com/static/js/2.070e8416.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/skyhizone.com/static/media/skyhi-bg.a9f1227d.JPG",
+    "static/media/skyhi-icon.cce1fb3a.png": "/skyhizone.com/static/media/skyhi-icon.cce1fb3a.png",
+    "static/media/telegram.3c933386.webp": "/skyhizone.com/static/media/telegram.3c933386.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be46973d.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.070e8416.chunk.js",
+    "static/css/main.b9af05af.chunk.css",
+    "static/js/main.71b66f69.chunk.js"
+  ]
+}
